@@ -89,9 +89,9 @@ Key components:
 
 Detailed documentation is available in the `/docs` directory:
 
-- **[Project Summary](docs/architecture/project-summary.md)** - Complete project overview and rationale
-- **[Migration Strategy](docs/architecture/migration-strategy.md)** - Redshift to Hive migration approach
-- **[SCD Implementation](docs/architecture/scd-implementation.md)** - Slowly changing dimension logic
+- **[Project Summary](docs/Architecture/project-summary.md)** - Complete project overview and rationale
+- **[Migration Strategy](docs/Architecture/migration-strategy.md)** - Redshift to Hive migration approach
+- **[SCD Implementation](docs/Architecture/scd-implementation.md)** - Slowly changing dimension logic
 - **[ACID vs Non-ACID](docs/implementation/)** - Table design strategies
 - **[NiFi Pipelines](docs/implementation/nifi-el-pipeline.md)** - ETL pipeline documentation
 
