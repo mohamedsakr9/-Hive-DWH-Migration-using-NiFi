@@ -1,0 +1,1 @@
+0 2 * * * /bin/bash /hive/scripts/run_scd_passenger.sh
